@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.npm-cache/
+dist/
+images/*
+!images/cards/
+!images/cards/**
+output/imagegen/
